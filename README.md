@@ -11,7 +11,6 @@ Welcome to the repository for my personal portfolio website, showcasing my journ
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ## About
 
